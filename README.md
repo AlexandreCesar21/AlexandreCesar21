@@ -16,3 +16,4 @@
 ##
   <div>
     <a href="https://www.linkedin.com/in/alexandre-c%C3%A9sar-350726256/recent-activity/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/alexandrecesar9477/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
