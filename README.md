@@ -1,7 +1,6 @@
 ### Olá! Eu sou Alexandre César bem vindo ao meu perfil!
 - 🖥️ Estudando HTML e CSS
 - 🔭 Procurando emprego na programação
-- 😀 Pronouns: ele/dele
   
 <div>
   <a href="https://beacons.ai/AlexandreCesar21">
