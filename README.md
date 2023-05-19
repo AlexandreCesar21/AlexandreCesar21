@@ -1,5 +1,5 @@
 ### Olá! Eu sou Alexandre César bem vindo ao meu perfil!
-- 🖥️ Estudando HTML e CSS
+- 🖥️ Estudando Javascript
 - 🔭 Procurando emprego na programação
   
 <div>
