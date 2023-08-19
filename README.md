@@ -1,6 +1,6 @@
 ### Olá! Eu sou Alexandre César bem vindo ao meu perfil!
 
-🖥️ Estudando Javascript  
+🖥️ Estudando React
 
 ##  
   
