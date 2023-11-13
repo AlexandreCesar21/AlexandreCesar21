@@ -1,7 +1,6 @@
-### Olá sou desenvolvedor front-end, Me chamo Alexandre César!
+Olá! 👋 Sou Alexandre César, um  entusiasta da programação em busca de novas oportunidades para contribuir e aprender no mundo da tecnologia. Atualmente, estou à procura de uma posição desafiadora como desenvolvedor de software.
 
 ##  
-
 
 <div>
   <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreCesar21&layout=compact&langs_count=16&theme=midnight-purple"/>
@@ -31,10 +30,11 @@
   <img align="center" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 </div>
-          
-##
 
-### Redes sociais
-  <div>
-    <a href="https://www.linkedin.com/in/alexandre-c%C3%A9sar-350726256/recent-activity/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+## 🌐 Contato
+<a href="https://www.linkedin.com/in/alexandre-c%C3%A9sar-350726256/recent-activity/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/alexandrecesar9477/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+
+Estou animado(a) para contribuir em projetos inovadores e aprender com uma equipe inspiradora! 🚀
