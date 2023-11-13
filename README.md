@@ -6,7 +6,7 @@
 <div>
   <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreCesar21&layout=compact&langs_count=16&theme=midnight-purple"/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=210 src="https://github-readme-stats.vercel.app/api?username=AlexandreCesar21&theme=midnight-purple"" />
+  <img height=210 src="https://github-readme-stats.vercel.app/api?username=AlexandreCesar21&layout=compact&langs_count=16&theme=midnight-purple"" />
 </a>
 
 </div>
