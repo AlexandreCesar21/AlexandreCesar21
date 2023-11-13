@@ -1,9 +1,17 @@
-### Olá! Eu sou Alexandre César bem vindo ao meu perfil!
+### Olá sou desenvolvedor front-end, Me chamo Alexandre César!
 
-🖥️ Estudando Node.js
-
-🔭 Procurando a primeira oportunidade
 ##  
+
+
+<div>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreCesar21&layout=compact&langs_count=16&theme=midnight-purple"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=210 src="https://github-readme-stats.vercel.app/api?username=AlexandreCesar21&theme=midnight-purple"" />
+</a>
+
+</div>
+
+##
   
 <img align="center" alt="Python" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /><img align="center" alt="Mysql" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /><img align="center" alt="Html" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img align="center" alt="Css3" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img align="center" alt="Javascript" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img align="center" alt="Git" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" align="center" alt="React" height="100" width="100" /> <img align="center" height="150" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
           
