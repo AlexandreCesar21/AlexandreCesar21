@@ -1,4 +1,4 @@
-Olá! 👋 Sou Alexandre César, um  entusiasta da programação em busca de novas oportunidades para contribuir e aprender no mundo da tecnologia. Atualmente, estou à procura de uma posição desafiadora como desenvolvedor de software.
+Olá! 👋 Sou Alexandre César, um  entusiasta da programação em busca de novas oportunidades para contribuir e aprender no mundo da tecnologia. Atualmente, estou à procura de uma posição desafiadora como desenvolvedor.
 
 ##  
 
