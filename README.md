@@ -27,7 +27,7 @@ Olá! 👋 Sou Alexandre César, um  entusiasta da programação em busca de nov
   
 </div>
 
-### DevOps
+### Dev
 
 <div>
   <img align="center" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
