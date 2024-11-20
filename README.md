@@ -1,6 +1,11 @@
 <img src="Olá.png" />
 
-##  
+<h2 align="center">"O único lugar onde sucesso vem <br/>antes do trabalho é no dicionário."</h2>
+<h3 align="center">-Albert Einsten</h3>
+
+
+<h1>🚀Sobre mim</h1>
+
 
 <div>
   <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreCesar21&layout=compact&langs_count=16&theme=midnight-purple"/>
