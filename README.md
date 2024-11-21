@@ -8,7 +8,7 @@
 <p>🎓Graduando ADS pelo Centro Universitário Maurício de Nassau</p>
 <p>💼Técnico de TI pela Sistemax Automação Comercial</p>
 <p>🌱Apaixonado por aprendizado contínuo e inovação</p>
-<p>🎯Objetivo: Se tonar um desenvolvedor Front end</p>
+<p>🎯Objetivo: Se tornar um desenvolvedor Front end</p>
 
 <h2>🔧 Tecnologias & Ferramentas</h2>
 
