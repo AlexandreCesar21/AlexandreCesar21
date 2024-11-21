@@ -33,22 +33,31 @@
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
+## 📈 Estatísticas do GitHub
+
 <div>
   <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreCesar21&layout=compact&langs_count=16&theme=midnight-purple"/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=210 src="https://github-readme-stats.vercel.app/api?username=AlexandreCesar21&layout=compact&langs_count=16&theme=midnight-purple"" />
 </a>
-
 </div>
 
-##
+## 🔗 Conecte-se Comigo
+
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xandebarros9@gmail.com)
+
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexandreCesar21)
 
 
-          
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+)](https://www.instagram.com/alexandrecesar9477/)
 
 
-## 🌐 Contato
-<a href="https://www.linkedin.com/in/alexandre-c%C3%A9sar-350726256/recent-activity/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/alexandrecesar9477/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+[![linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-c%C3%A9sar-350726256/)
+
+
+
 
 
