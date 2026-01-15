@@ -5,7 +5,7 @@
 
 
 
-<p>🎓Graduado ADS pelo Centro Universitário Maurício de Nassau</p>
+<p>🎓Formado em ADS pelo Centro Universitário Maurício de Nassau em 2025</p>
 
 
 
