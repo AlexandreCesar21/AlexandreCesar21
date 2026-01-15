@@ -5,7 +5,7 @@
 
 
 
-<p>🎓Graduando ADS pelo Centro Universitário Maurício de Nassau</p>
+<p>🎓Graduado ADS pelo Centro Universitário Maurício de Nassau</p>
 
 
 
